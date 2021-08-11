@@ -1,0 +1,1 @@
+This is a simple chat room implemented in python. server.py must run first and after that client.py can run for each client.
